@@ -2,6 +2,6 @@ A Simple Weather App made using React-Redux that displays a 5 day temperature, p
 
 Generated line graphs using react-sparklines and also integrated google maps into the project.
 
-To run:
-npm install
+To run:<br/>
+npm install <br/>
 npm start (localhost port 8080)
