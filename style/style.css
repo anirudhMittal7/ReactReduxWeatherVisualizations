@@ -1,0 +1,17 @@
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.input-group {
+	margin: 30px auto;
+}
+
+svg{
+	height: 160px;
+}
+
+td:first-of-type, td:first-of-type > div{
+	height: 200px;
+	width: 200px;
+}
